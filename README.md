@@ -25,7 +25,7 @@ If you would like to get in touch, please visit the contact page for my contact 
 
 ## Resume
 
-You can download my resume [here](src/assets/docs/resume.pdf).
+You can download my resume [here](src/assets/resume.pdf).
 
 ## Setup Instructions
 
